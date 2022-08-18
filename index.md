@@ -1,6 +1,6 @@
 ## MP03. Programació
 
-You can use the [editor on GitHub](https://github.com/reych-labs/programacio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En aquest repositori trobareu disponibles els continguts treballats a classe, així com els exemples resolts i les fites a assolir.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
